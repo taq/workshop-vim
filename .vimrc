@@ -5,6 +5,7 @@
 " configurações básicas {{{
 set nocompatible  " não precisamos ser totalmente compatíveis com o Vi!
 syntax on         " habilita syntax highlight
+let mapleader=","
 " }}}
 
 " tabs default {{{

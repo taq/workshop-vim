@@ -9,6 +9,7 @@ call vundle#begin()
 Plugin 'rking/ag.vim'
 Plugin 'camelcasemotion'
 Plugin 'mattn/emmet-vim.git'
+Plugin 'scrooloose/nerdcommenter.git'
 
 " colorschemes
 Plugin 'mhartington/oceanic-next'
