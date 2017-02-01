@@ -20,6 +20,7 @@ Plugin 'easymotion/vim-easymotion'
 Plugin 'sheerun/vim-polyglot'
 Plugin 'vim-syntastic/syntastic'
 Plugin 'kshenoy/vim-signature'
+Plugin 'tpope/vim-surround'
 
 Plugin 'tomtom/tlib_vim.git'
 Plugin 'MarcWeber/vim-addon-mw-utils.git'
