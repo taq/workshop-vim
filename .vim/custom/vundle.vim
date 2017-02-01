@@ -11,6 +11,7 @@ Plugin 'camelcasemotion'
 Plugin 'mattn/emmet-vim.git'
 Plugin 'scrooloose/nerdcommenter.git'
 Plugin 'scrooloose/nerdtree.git'
+Plugin 'Xuyuanp/nerdtree-git-plugin'
 
 " colorschemes
 Plugin 'mhartington/oceanic-next'
