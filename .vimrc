@@ -49,4 +49,9 @@ map ms :mksession!   /tmp/session.vim<CR>
 map rs :source       /tmp/session.vim<CR>
 " }}}
 
+" correção ortográfica {{{
+map spon :set spell spelllang=pt<CR>
+map spof :set nospell<CR>
+" }}}
+
 source ~/.vim/custom/gui.vim
