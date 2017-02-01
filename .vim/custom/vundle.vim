@@ -13,6 +13,11 @@ Plugin 'scrooloose/nerdcommenter.git'
 Plugin 'scrooloose/nerdtree.git'
 Plugin 'Xuyuanp/nerdtree-git-plugin'
 
+Plugin 'tomtom/tlib_vim.git'
+Plugin 'MarcWeber/vim-addon-mw-utils.git'
+Plugin 'garbas/vim-snipmate'
+Plugin 'honza/vim-snippets.git'
+
 " colorschemes
 Plugin 'mhartington/oceanic-next'
 Plugin 'NLKNguyen/papercolor-theme'
