@@ -39,4 +39,9 @@ set showmatch           " mostra os parenteses que 'casam'
 set splitbelow          " posiciona janelas divididas sempre abaixo da atual
 " }}}
 
+" backup {{{
+set nobackup      " não mantém arquivos .swp
+set writebackup   " cria um arquivo de backup quando sobrescreve
+" }}}
+
 source ~/.vim/custom/gui.vim
