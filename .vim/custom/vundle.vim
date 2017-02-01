@@ -3,7 +3,10 @@ filetype off
  
 set rtp+=~/.vim/bundle/Vundle.vim
 call vundle#begin()
-Plugin 'VundleVim/Vundle.vim'
+" Plugin 'VundleVim/Vundle.vim'
+
+" programming
+Plugin 'rking/ag.vim'
 
 Plugin 'mhartington/oceanic-next'
 Plugin 'NLKNguyen/papercolor-theme'
