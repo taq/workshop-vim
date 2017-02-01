@@ -22,6 +22,7 @@ Plugin 'vim-syntastic/syntastic'
 Plugin 'kshenoy/vim-signature'
 Plugin 'tpope/vim-surround'
 Plugin 'ludovicchabant/vim-gutentags'
+Plugin 'terryma/vim-multiple-cursors.git'
 
 Plugin 'tomtom/tlib_vim.git'
 Plugin 'MarcWeber/vim-addon-mw-utils.git'
