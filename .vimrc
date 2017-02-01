@@ -38,3 +38,5 @@ set cursorline          " destaca a linha que o cursor está
 set showmatch           " mostra os parenteses que 'casam'
 set splitbelow          " posiciona janelas divididas sempre abaixo da atual
 " }}}
+
+source ~/.vim/custom/gui.vim
