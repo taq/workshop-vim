@@ -7,6 +7,17 @@ set nocompatible  " não precisamos ser totalmente compatíveis com o Vi!
 syntax on         " habilita syntax highlight
 " }}}
 
+" tabs default {{{
+set tabstop=3           " número de espaços da tabulação
+set softtabstop=3     	" número de espaços de tabulação para edição
+set shiftwidth=3        	" número de espaços para usar com a indentação automática
+set expandtab          	" fim da guerra: use espaços ao invés de tabulações
+" }}}
+
+" plugin manager {{{
+source ~/.vim/custom/vundle.vim
+" }}}
+
 " encoding {{{
 set encoding=utf-8      " encoding utilizado dentro do editor
 set fileencoding=utf-8  " encoding utilizado para os arquivos
@@ -15,13 +26,6 @@ set fileencoding=utf-8  " encoding utilizado para os arquivos
 " filetype {{{
 filetype plugin on      " carrega plugins do filetype
 filetype indent on      " habilita indentação do filetype
-" }}}
-
-" tabs default {{{
-set tabstop=3           " número de espaços da tabulação
-set softtabstop=3     	" número de espaços de tabulação para edição
-set shiftwidth=3        	" número de espaços para usar com a indentação automática
-set expandtab          	" fim da guerra: use espaços ao invés de tabulações
 " }}}
 
 " visual {{{
