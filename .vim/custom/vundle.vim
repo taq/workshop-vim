@@ -7,6 +7,7 @@ call vundle#begin()
 
 " programming
 Plugin 'rking/ag.vim'
+Plugin 'camelcasemotion'
 
 Plugin 'mhartington/oceanic-next'
 Plugin 'NLKNguyen/papercolor-theme'
