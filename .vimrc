@@ -62,3 +62,4 @@ map spof :set nospell<CR>
 source ~/.vim/custom/gui.vim
 source ~/.vim/custom/nerdtree.vim
 source ~/.vim/custom/tagbar.vim
+source ~/.vim/custom/easyalign.vim
