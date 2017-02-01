@@ -8,7 +8,9 @@ call vundle#begin()
 " programming
 Plugin 'rking/ag.vim'
 Plugin 'camelcasemotion'
+Plugin 'mattn/emmet-vim.git'
 
+" colorschemes
 Plugin 'mhartington/oceanic-next'
 Plugin 'NLKNguyen/papercolor-theme'
 Plugin 'jacoborus/tender.vim'
