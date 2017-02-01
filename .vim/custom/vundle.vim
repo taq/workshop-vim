@@ -18,6 +18,7 @@ Plugin 'airblade/vim-gitgutter'
 Plugin 'junegunn/vim-easy-align.git'
 Plugin 'easymotion/vim-easymotion'
 Plugin 'sheerun/vim-polyglot'
+Plugin 'vim-syntastic/syntastic'
 
 Plugin 'tomtom/tlib_vim.git'
 Plugin 'MarcWeber/vim-addon-mw-utils.git'
