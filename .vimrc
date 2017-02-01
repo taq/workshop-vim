@@ -44,4 +44,9 @@ set nobackup      " não mantém arquivos .swp
 set writebackup   " cria um arquivo de backup quando sobrescreve
 " }}}
 
+" sessões {{{
+map ms :mksession!   /tmp/session.vim<CR> 
+map rs :source       /tmp/session.vim<CR>
+" }}}
+
 source ~/.vim/custom/gui.vim
