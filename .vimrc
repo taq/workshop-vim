@@ -65,3 +65,4 @@ source ~/.vim/custom/tagbar.vim
 source ~/.vim/custom/easyalign.vim
 source ~/.vim/custom/theme.vim
 source ~/.vim/custom/colorizer.vim
+source ~/.vim/custom/tmux.vim
