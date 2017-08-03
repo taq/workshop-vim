@@ -66,3 +66,4 @@ source ~/.vim/custom/easyalign.vim
 source ~/.vim/custom/theme.vim
 source ~/.vim/custom/colorizer.vim
 source ~/.vim/custom/tmux.vim
+source ~/.vim/custom/maps.vim
