@@ -36,5 +36,8 @@ Plugin 'NLKNguyen/papercolor-theme'
 Plugin 'jacoborus/tender.vim'
 Plugin 'majutsushi/tagbar'
 
+" utils
+Plugin 'rhysd/open-pdf.vim'
+
 call vundle#end()
 filetype plugin indent on
